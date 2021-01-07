@@ -1,4 +1,3 @@
-TEst Test test
 JAVASCRIPT SYNTAX, PART I
 Number Guesser
 Overview
